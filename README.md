@@ -1,4 +1,9 @@
-# raspberryjamberlin_resources
-Collection of Raspberry Jam Berlin's Resources
+#Raspberry Jam Berlin Resources
+Collection of Raspberry Jam Resources for Berlin and other Jam's 
 
-Cannybots One Sheet Track A4
+What you can find:
+
+* Cannybots One Sheet Track A4
+* Logos for other Jams
+* Wallpapers
+* Skill Badges
