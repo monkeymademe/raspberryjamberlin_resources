@@ -19,6 +19,14 @@ Following is a list of skill badges that are planned
 * Scratch Basics
 * Raspberry Pi = SSH
 * Command Line
+* PIR Sensor
+* Picoborg
+* LEDborg
+* xloborg
+* Ultraborg
+* Unicorn Hat
+* Camera
+* Minecraft?
 
 (more will come)
 
