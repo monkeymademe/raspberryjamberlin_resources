@@ -1,6 +1,6 @@
 #PiBrella Skill Bagde
 
-![](Skill-badge.png =250x)
+![](Skill-badge.png)
 
 A handy collection of inputs and outputs
 
