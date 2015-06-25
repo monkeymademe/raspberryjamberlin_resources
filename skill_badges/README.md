@@ -11,9 +11,14 @@ Skill Badges ofer them a guide to using these devices and both a way its designe
  
 Finally Skill Badges could provide a working path in learning. Example: If you want to learn to build a basic robot the following skill badges would need to be obtained 1st - Raspberry Pi setup, pibrella, motor control, python.
 
-Following is a list of skill badges that are planned
+Following is a list of skill badges.
 
-* PiBrella
+Finished:
+
+* [PiBrella](pibrella/)
+
+Planned:
+
 * LED Blinky
 * Explorer HAT
 * Scratch Basics
